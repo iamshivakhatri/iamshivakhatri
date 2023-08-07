@@ -2,7 +2,7 @@
 
  🛠️ Languages & Frameworks: Node.js, Python, JavaScript, Java, Typescript, HTML/CSS, React.js, MongoDB, PostgreSQL, Next.js, Redux, Express.js, Flask, Git/GitHub, Unix/Linux/Bash, and more.
 
-- 🔭 I’m currently working on Findme - a collaborative platform that allows the 
+- 🔭I’m currently working on FindMe - A collaborative hub for sharing projects and fostering cross-disciplinary collaboration among individuals from diverse fields.
 - 🌱 I’m currently learning machine learning and blockchain.
 - 👯 I’m looking to collaborate on startup ideas.
 
