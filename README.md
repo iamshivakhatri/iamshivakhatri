@@ -19,6 +19,9 @@ My Projects Speak Louder
 - 💬 Ask me about movies, startups, travel, friendship, life, books, founders, and many more.
 - 📫 How to reach me: shiva.khatri0001@gmail.com
 - ⚡ Fun fact: Movie geek and Travel enthusiast. Haven't got quite time to do both but can't say no to a good movie.
+# Welcome to My GitHub Profile
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamshivakhatri&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
